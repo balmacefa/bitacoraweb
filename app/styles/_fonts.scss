@@ -1,19 +1,19 @@
 @font-face {
 	font-family: 'Titillium Web';
-	src: url('fonts/TitilliumTitilliumWeb-Regular.eot');
-	src: url('fonts/TitilliumTitilliumWeb-Regular.eot?#iefix') format('embedded-opentype'),
-		url('fonts/TitilliumTitilliumWeb-Regular.woff') format('woff'),
-		url('fonts/TitilliumTitilliumWeb-Regular.ttf') format('truetype');
+	src: url('../fonts/TitilliumTitilliumWeb-Regular.eot');
+	src: url('../fonts/TitilliumTitilliumWeb-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Titillium/TitilliumWeb-Regular.woff') format('woff'),
+		url('../fonts/TitilliumTitilliumWeb-Regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Anton';
-	src: url('fonts/Anton/Anton-Regular.eot');
-	src: url('fonts/Anton/Anton-Regular.eot?#iefix') format('embedded-opentype'),
-		url('fonts/Anton/Anton-Regular.woff') format('woff'),
-		url('fonts/Anton/Anton-Regular.ttf') format('truetype');
+	src: url('../fonts/Anton/Anton-Regular.eot');
+	src: url('../fonts/Anton/Anton-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Anton/Anton-Regular.woff') format('woff'),
+		url('../fonts/Anton/Anton-Regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }

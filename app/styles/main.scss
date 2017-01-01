@@ -6,6 +6,10 @@
 $cT: #309559;
 $cR: rgb(201, 14, 82);
 
+.v {
+  @include grid-visual;
+}
+
 .browserupgrade {
   margin: 0.2em 0;
   background: #ccc;

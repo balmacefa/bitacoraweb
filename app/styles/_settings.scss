@@ -2,6 +2,10 @@ $s: ( media: 320px, gutter: 0 );
 $m: ( media: 640px, gutter: 0);
 $l: ( media: 992px, gutter: 0);
 $xl: ( media: 1200px, gutter: 0);
+// $s: ( media: 320px );
+// $m: ( media: 640px);
+// $l: ( media: 992px);
+// $xl: ( media: 1200px);
 @mixin test {
 	 @include grid-media($s){
 		background-color: blue;
