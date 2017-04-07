@@ -1,0 +1,12 @@
+{
+  "name": "dise-o-web",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "materialize": "^0.98.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

@@ -1,0 +1,50 @@
+// bower:scss
+// endbower
+
+.browserupgrade {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+h4, h3{
+  color: #757575;
+}
+
+img{
+  margin: 30px auto;
+}
+
+.section{
+  padding-top: 40px;
+}
+
+.title{
+  margin-top: 180px;
+  font-size: 100px;
+}
+.margin-down{
+  margin-bottom: 120px;
+}
+.margin-t-0{
+  margin-top: 0;
+}
+
+.date{
+  margin: 0 40px 20px 0;
+  font-weight: 900;
+  p{
+    margin: -5px;
+    font-size: 18px;
+  }
+  p:nth-child(1){
+    font-size: 40px;
+    margin-bottom: -19px;
+  }
+}
+.content{
+  p{
+    text-indent: 30px;
+  }
+}
