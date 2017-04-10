@@ -1,5 +1,12 @@
 // bower:scss
 // endbower
+@mixin transform($transforms) {
+  -moz-transform: $transforms;
+  -o-transform: $transforms;
+  -ms-transform: $transforms;
+  -webkit-transform: $transforms;
+  transform: $transforms;
+}
 
 .browserupgrade {
   margin: 0.2em 0;
@@ -8,43 +15,124 @@
   padding: 0.2em 0;
 }
 
-h4, h3{
+h3,
+h4 {
   color: #757575;
 }
 
-img{
-  margin: 30px auto;
-}
+.header {
+  padding: 120px 0;
+  background: #282537;
+  background-image: -webkit-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+  background-image: -moz-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+  background-image: -o-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+  background-image: radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
 
-.section{
-  padding-top: 40px;
-}
-
-.title{
-  margin-top: 180px;
-  font-size: 100px;
-}
-.margin-down{
-  margin-bottom: 120px;
-}
-.margin-t-0{
-  margin-top: 0;
-}
-
-.date{
-  margin: 0 40px 20px 0;
-  font-weight: 900;
-  p{
-    margin: -5px;
-    font-size: 18px;
-  }
-  p:nth-child(1){
-    font-size: 40px;
-    margin-bottom: -19px;
+  .title {
+    font-size: 90px;
+    font-family: 'League Gothic',Impact,sans-serif;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
   }
 }
-.content{
-  p{
-    text-indent: 30px;
+
+.main {
+  $height: 570px;
+  $margen: 60px;
+  height: $height;
+  margin: $margen 0;
+
+  .lista-img {
+    height: $height;
+    overflow: scroll;
+
+    .categoria {
+      margin: $margen/3 0;
+    }
+
+    .active{
+      &::before {
+        background: rgba(111, 46, 46, 0.6) !important
+      }
+    }
+    .img-container {
+      $altura:100px;
+      overflow: hidden;
+      padding: 0;
+      display: block;
+      position: relative;
+      height: $altura;
+
+      &::before {
+        content: attr(data-overlay-text);
+        position: absolute;
+        z-index: 1;
+        /*On top of parent*/
+        top: 0;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        color: #fff;
+        background: rgba(55, 53, 75, 0.63);
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+        line-height: $altura;
+        text-transform: uppercase;
+        font-size: 20px;
+      }
+      &:hover::before {
+        background: rgba(55, 53, 75, 0.9);
+        font-size: 25px;
+      }
+
+      img {
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+      }
+
+      &:hover img {
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
+      }
+    }
+  }
+
+  #detalle {
+    height: $height;
+    overflow: scroll;
+
+    h4 {
+      text-transform: uppercase;
+      margin-bottom: 0;
+    }
+
+    .imagen {
+      margin: $margen/3 0;
+
+      img {
+        height: 300px;
+        margin: 0 auto;
+      }
+    }
+
+    .descripcion {
+      p {
+        margin-top: 0;
+        text-align: justify;
+        text-indent: $margen/3;
+      }
+    }
   }
 }

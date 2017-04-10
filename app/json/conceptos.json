@@ -1,0 +1,38 @@
+[{
+    "categoria": "Diseño",
+    "titulo": "Retícula",
+    "img": "images/reticula.jpg",
+    "descripcion": "La <a target='_blank' href='http://definicion.de/reticula/'>retícula</a> es una estructura o maqueta que permite distribuir elementos visuales, manteniendo una relación. Es esencial cuando se quiere tener una consistencia en el formato de los diseños."
+  }, {
+    "categoria": "Diseño",
+    "titulo": "Proporción aurea",
+    "img": "images/aurea.png",
+    "descripcion": "La <a target='_blank' href='http://www.brandemia.org/la-proporcion-aurea-en-el-diseno-de-logotipos'>proporción áurea</a> está presente en la naturaleza, es una relación matemática obtenida de la sucesion de <a target='_blank' href='https://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci'>fibonnacci</a>, transladada esta proporcion a un rectángulo cualquiera, se obtienen puntos de interés que el espectador visualizara, es usa para la composición fotográfica y como retícula."
+  }, {
+    "categoria": "Diseño",
+    "titulo": "Movimiento",
+    "img": "images/movimiento.png",
+    "descripcion": "Movimiento es realizar una acción en el tiempo, una imagen que transmite la sensación del movimiento se dice que tiene dinamismo.Esta da la sugerencia de movimiento."
+  }, {
+    "categoria": "Diseño",
+    "titulo": "Jerarquía",
+    "img": "images/jerarquia.jpg",
+    "descripcion": "Estructura de elementos visuales que definen un orden de importancia.Elementos organizados en base a un criterio.Dependiendo de lo que se desea comunicar, ciertos elementos pueden tener más o menor importancia en la imagen, esta <a target='_blank' href='http://blog.aulaformativa.com/fundamentos-del-diseno-como-crear-jerarquia-visual/'> jerarquía </a>se puede lograr mediante tamaño, contraste, color, proximidad, composición, etc."
+  }, {
+    "categoria": "Diseño",
+    "titulo": "Responsive design",
+    "img": "images/responsive.gif",
+    "descripcion": "El diseño web adaptable es una metodología de diseño y desarrollo su objetivo es adaptar la apariencia de las páginas web al dispositivo, sin importar su <a target='_blank' href='https://v-play.net/doc/vplay-different-screen-sizes/'> aspect ratio </a>."
+  }, {
+    "categoria": "Diseño",
+    "titulo": "Constantes/Variables",
+    "img": "images/constante.jpg",
+    "descripcion": "Una constante en el diseño es aquel elemento que no puede ser modificado de su estado natural, por ejemplo, la zona de seguridad de un logotipo, o la posición de un eslogan respecto a otro elemento.Las variables son aquellos elementos que pueden ser modificados en caso de ser requerido, por ejemplo, la tipografía en una página web, si un navegador no puede resolver una dependencia, se puede definir una tipografía alterna."
+  }, {
+    "categoria": "Diseño",
+    "titulo": "Economía Visual",
+    "img": "images/economia.jpg",
+    "descripcion": "Utilizar únicamente la cantidad necesaria de elementos visuales, interfaz de usuario limpias y sin distracciones, menús y botones ocultos al usuario, visibles únicamente cuando el cursor se acerca a una zona."
+  }
+
+]
