@@ -1,16 +1,13 @@
 $(document).ready(function() {
-  $('.materialboxed').materialbox();
-  $('.parallax').parallax();
-
   var lista = {};
   var lastActive;
 
   function categoria(categoria) {
-    return '<div class=\'col m12 categoria\'><h5>' + categoria + '</h5><div class=\'divider\'></div></div>';
+    return '<div class=\'categoria\'><h5>' + categoria + '</h5><div class=\'divider\'></div></div>';
   }
 
   function item(item) {
-    return '<div id=\'' + item.id + '\' class=\'col s12 img-container item\' data-overlay-text=\'' + item.titulo + '\'><img class=\'responsive-img\' src=\'' + item.img + '\'></div>'
+    return '<div id=\'' + item.id + '\' class=\'img-container item\' data-overlay-text=\'' + item.titulo + '\'><img class=\'responsive-img\' src=\'' + item.img + '\'></div>'
   }
 
   function llenarTabla() {

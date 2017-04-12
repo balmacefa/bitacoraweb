@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "jquery": "~2.1.1",
-    "materialize": "^0.98.1"
+    "neat": "^2.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",

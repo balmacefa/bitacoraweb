@@ -1,12 +1,10 @@
 // bower:scss
+@import "bower_components/neat/core/_neat.scss";
 // endbower
-@mixin transform($transforms) {
-  -moz-transform: $transforms;
-  -o-transform: $transforms;
-  -ms-transform: $transforms;
-  -webkit-transform: $transforms;
-  transform: $transforms;
-}
+@import "settings.scss";
+@import "fonts.scss";
+$cT: #309559;
+$cR: rgb(201, 14, 82);
 
 .browserupgrade {
   margin: 0.2em 0;
@@ -15,48 +13,131 @@
   padding: 0.2em 0;
 }
 
-h3,
-h4 {
-  color: #757575;
+a {
+  color: $cR;
 }
 
-.header {
-  padding: 120px 0;
+body,
+html {
+  margin: 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.row {
+  @include grid-container;
+}
+
+.right {
+  float: right !important;
+}
+
+.container {
+  padding: 0 40px 10px;
+  margin: auto;
+}
+
+#wrapper {
+  max-width: 1000px;
+  margin: auto;
+}
+
+#header {
+  @include c($s, 12);
+  @include grid-media($s) {
+    display: none;
+  }
+  @include grid-media($m) {
+    display: flex;
+  }
+  height: 500px;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
   background: #282537;
   background-image: -webkit-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
   background-image: -moz-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
   background-image: -o-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
   background-image: radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+  text-align: center;
 
-  .title {
-    font-size: 90px;
-    font-family: 'League Gothic',Impact,sans-serif;
+  img {
+    height: 150px;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
     letter-spacing: 0.02em;
     text-transform: uppercase;
+    color: white;
+    margin: 10px 0 0;
+  }
+
+  h4 {
+    margin: 0;
+    font-size: 18px;
+    color: #b8b8b8;
   }
 }
 
-.main {
-  $height: 570px;
+#main {
+  @include c($s, 12);
+  $height: 90vh;
   $margen: 60px;
-  height: $height;
-  margin: $margen 0;
+  $altura: 100px;
+  @include grid-media($s) {
+    margin: 0;
+  }
+  @include grid-media($m) {
+    margin: 10px auto 0;
+  }
 
-  .lista-img {
-    height: $height;
+  #lista-img {
+    @include c($s, 12);
+    @include c($m, 4);
     overflow: scroll;
+    @include grid-media($s) {
+      height: 25vh;
+      position: absolute;
+      bottom: 0;
+    }
+    @include grid-media($m) {
+      height: $height;
+      position: initial;
+      bottom: initial;
+    }
 
     .categoria {
       margin: $margen/3 0;
-    }
 
-    .active{
-      &::before {
-        background: rgba(111, 46, 46, 0.6) !important
+      h5 {
+        margin: 0 0 10px 20px;
+        font-family: 'Anton', sans-serif;
+        font-size: 20px;
+        color: $cT;
+        letter-spacing: 0.02em;
+      }
+
+      .divider {
+        height: 2px;
+        width: 50%;
+        background: $cT;
       }
     }
+
+    .active {
+      &::before {
+        background: rgba($cR, 0.8)!important;
+      }
+    }
+
     .img-container {
-      $altura:100px;
       overflow: hidden;
       padding: 0;
       display: block;
@@ -67,55 +148,70 @@ h4 {
         content: attr(data-overlay-text);
         position: absolute;
         z-index: 1;
-        /*On top of parent*/
         top: 0;
         width: 100%;
         height: 100%;
-        text-align: center;
         color: #fff;
         background: rgba(55, 53, 75, 0.63);
-        -moz-transition: all 0.3s;
-        -o-transition: all 0.3s;
         -webkit-transition: all 0.3s;
         transition: all 0.3s;
-        line-height: $altura;
-        text-transform: uppercase;
-        font-size: 20px;
+        line-height: 100px;
+        font-size: 18px;
+        font-family: 'Titillium Web', sans-serif;
+        letter-spacing: 0.1em;
+        text-align: center;
+        text-transform: capitalize;
       }
+
       &:hover::before {
         background: rgba(55, 53, 75, 0.9);
-        font-size: 25px;
+        font-size: 22px;
       }
 
       img {
-        -moz-transform: scale(1);
-        -ms-transform: scale(1);
-        -o-transform: scale(1);
-        -webkit-transform: scale(1);
-        transform: scale(1);
-        -moz-transition: all 0.3s;
-        -o-transition: all 0.3s;
-        -webkit-transition: all 0.3s;
-        transition: all 0.3s;
+        $sc: 1;
+        $t: 0.6s;
+        -moz-transform: scale($sc);
+        -ms-transform: scale($sc);
+        -o-transform: scale($sc);
+        -webkit-transform: scale($sc);
+        transform: scale($sc);
+        -moz-transition: all $t;
+        -o-transition: all $t;
+        -webkit-transition: all $t;
+        transition: all $t;
       }
 
       &:hover img {
-        -moz-transform: scale(1.2);
-        -ms-transform: scale(1.2);
-        -o-transform: scale(1.2);
-        -webkit-transform: scale(1.2);
-        transform: scale(1.2);
+        $sc: 1.5;
+        -moz-transform: scale($sc);
+        -ms-transform: scale($sc);
+        -o-transform: scale($sc);
+        -webkit-transform: scale($sc);
+        transform: scale($sc);
       }
     }
   }
 
   #detalle {
-    height: $height;
+    @include c($s, 12);
+    @include c($m, 8);
+    @include grid-media($s) {
+      height: 66vh;
+    }
+    @include grid-media($m) {
+      height: $height;
+    }
     overflow: scroll;
 
     h4 {
       text-transform: uppercase;
       margin-bottom: 0;
+      text-align: center;
+      font-family: 'Anton', sans-serif;
+      font-size: 20px;
+      color: $cR;
+      letter-spacing: 0.02em;
     }
 
     .imagen {
@@ -124,6 +220,7 @@ h4 {
       img {
         height: 300px;
         margin: 0 auto;
+        display: block;
       }
     }
 

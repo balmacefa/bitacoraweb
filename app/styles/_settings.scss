@@ -1,0 +1,23 @@
+$s: ( media: 320px, gutter: 0 );
+$m: ( media: 640px, gutter: 0);
+$l: ( media: 992px, gutter: 0);
+$xl: ( media: 1200px, gutter: 0);
+@mixin test {
+	 @include grid-media($s){
+		background-color: blue;
+	}
+	@include grid-media($m) {
+		background-color: red;
+	}
+	@include grid-media($l) {
+		background-color: green;
+	}
+	@include grid-media($xl) {
+		background-color: black;
+	}
+}
+@mixin c($media, $colum) {
+	 @include grid-media($media){
+		@include grid-column($colum);
+	}
+}
