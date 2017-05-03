@@ -33,6 +33,176 @@
     "titulo": "Economía Visual",
     "img": "images/economia.jpg",
     "descripcion": "Utilizar únicamente la cantidad necesaria de elementos visuales, interfaz de usuario limpias y sin distracciones, menús y botones ocultos al usuario, visibles únicamente cuando el cursor se acerca a una zona."
+  }, {
+    "categoria": "Tipografía",
+    "titulo": "Tipografía",
+    "img": "images/tipografia.jpg",
+    "descripcion": "La <a target='_blank' href='http://definicion.de/tipografia/'>tipografía</a> es el oficio del diseño, manejo y selección de tipos para crear trabajos de impresión, sea en soporte físico o digital. La selección de la tipografía debe concordar con el propósito o intención a comunicar, y ser capaz de adaptarse al público meta."
+  }, {
+    "categoria": "Tipografía",
+    "titulo": "Familias tipográficas",
+    "img": "images/Familias tipográficas.jpg",
+    "descripcion": "Una <a target='_blank' href='https://desarrolloweb.com/articulos/1626.php'>familia tipográfica </a> es un conjunto de tipografías que comparten características o rasgos de diseño comunes. Estas tipografias se parecen entre sí, pero tienen cualidades individuales. Existen diversas clasificaciones tipográficas, la más común es Tipografías Serif (Con Serif o Roman), Tipografías Lineales (Sin Serif o Paloseco), Tipografías Cursivas (o Script) y Tipografías Decorativas (o Fantasía)."
+  }, {
+    "categoria": "Tipografía",
+    "titulo": "Peso",
+    "img": "images/Peso.jpg",
+    "descripcion": "El peso es una variable de una tipografía, modifica el grosor o espesor de la misma, por ejemplo: Regular, Bold, Heavy."
+  }, {
+    "categoria": "Tipografía",
+    "titulo": "Inclinación",
+    "img": "images/Inclinación.jpg",
+    "descripcion": "Es una variable que modifica el eje de dise;o del tipo, se puede referir como la versión itálica de la tipografía."
+  }, {
+    "categoria": "Tipografía",
+    "titulo": "Tracking",
+    "img": "images/Tracking.jpg",
+    "descripcion": "Tracking es el proceso de creación de expansión o compresión de un bloque de texto."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Color",
+    "img": "images/Color.jpg",
+    "descripcion": "El color es es una percepción visual que se genera en el cerebro, por el estímulo a la luz. Los colores se pueden clasificar según varios criterios, por ejemplo: fríos, cálidos, terrenas, neutros. También se pueden organizar para que formen armonías, triadas, cuartetos, complementarios, adyacentes, entre otras."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Recorrido Visual",
+    "img": "images/Recorrido Visual.jpg",
+    "descripcion": "El recorrido visual, es la manera en la cual un espectador visualiza un contenido visual, el cerebro es capaz de interpretar una imagen y encontrar un punto de interés, partiendo de este la vista será guia hacia o lugar, conformando un recorrido. El factor cultural es de vital importancia a la hora de realizar una composición, normalmente las personas del occidente leen la imagen de izquierda a derecha y en dirección diagonal, las personas orientales la visualizarán diferente, se puede crear un recorrido con muchos otros factores como cambios de color, peso, tamaño."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Puntos de Armonía",
+    "img": "images/Puntos de Armonía.jpg",
+    "descripcion": "Los puntos de armonía, sirven como una guia de composición. El ojo por costumbre los busca. Son obtenidos por medio de la proporción áurea."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Contraste",
+    "img": "images/Contraste.jpg",
+    "descripcion": "El contraste es la diferencia de una cualidad de un objeto visual, como lo puede ser el color, forma, peso, tamaño, velocidad. Entre mayor sea dicha diferencia, se dice que se tiene un mayor contraste."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Equilibrio",
+    "img": "images/Equilibrio.jpg",
+    "descripcion": "En composición el equilibrio es la cantidad de una propiedad de un elemento visual en un espacio determinado respecto a otro. Un imagen no equilibrada puede ser un grupo de objeto colocados en un esquina, mientras que una imagen equilibrada sería repartir los objetos alrededor del canvas. El equilibrio se puede dar entre formas, peso, composición, entre otros."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Planos",
+    "img": "images/Planos.png",
+    "descripcion": "Colocación de los elementos respecto a un tercer eje, o un eje de profundidad. Un plano de fondo, donde se muestra un paisaje, un segundo plano principal donde se encuentra un actor y un tercer plano más cerca del espectador donde hay elementos de relleno. En diseño web la serialidad o posición de un plano se da con la propiedad de css z-index."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Fondo - Figura",
+    "img": "images/Fondo - Figura.jpg",
+    "descripcion": "Está definido por la forma y contraforma, o los espacios negativos. Nos determina que debería ser el elemento principal."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Textura",
+    "img": "images/Textura.jpg",
+    "descripcion": "La textura es la sensación de relieve, o la agregación de un material que genera irregularidades en una superficie."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Estilo",
+    "img": "images/Estilo.jpg",
+    "descripcion": "Características y factores, espaciales y temporales, que definen un arte."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Síntesis",
+    "img": "images/Síntesis.jpg",
+    "descripcion": "El objetivo final de una imagen, lo más importante."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Concepto",
+    "img": "images/Concepto.jpg",
+    "descripcion": "Lo que se quiere transmitir o comunicar."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Intencionalidad",
+    "img": "images/Intencionalidad.jpg",
+    "descripcion": "Modo de expresar y reforzar de una idea, según su intención."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Composición",
+    "img": "images/Composición.jpg",
+    "descripcion": "La composición es la manera en la cual los elemento visuales son dispuesto sobre el canvas."
+  }, {
+    "categoria": "Imágen",
+    "titulo": "Concentración",
+    "img": "images/Concentración.jpg",
+    "descripcion": "Agrupación de elementos en un determinado espacio."
+  }, {
+    "categoria": "Imágen - Variables",
+    "titulo": "Tono/Matiz",
+    "img": "images/TonoMatiz.jpg",
+    "descripcion": "Es la frecuencia de la onda del color, la posición de un color sobre el espectro de la luz."
+  }, {
+    "categoria": "Imágen - Variables",
+    "titulo": "Saturación",
+    "img": "images/Saturación.jpg",
+    "descripcion": "Se basa en la pureza del color; un color muy saturado tiene un color vivo e intenso, mientras que un color menos saturado parece más descolorido y gris. Es la cantidad de gris presente en una imagen."
+  }, {
+    "categoria": "Imágen - Variables",
+    "titulo": "Contraste",
+    "img": "images/Contraste.png",
+    "descripcion": "La diferencia relativa en la intensidad entre un punto de una imagen."
+  }, {
+    "categoria": "Imágen - Variables",
+    "titulo": "Brillo",
+    "img": "images/Brillo.png",
+    "descripcion": "Cantidad de blancos de una imagen."
+  }, {
+    "categoria": "Imágen - Variables",
+    "titulo": "Medio",
+    "img": "images/Medio.jpg",
+    "descripcion": "El lugar donde se despliega el contenido es de vital importancia, pues cambia la manera de diseñar, agregando ciertas limitantes, ya sea de forma física o digital."
+  }, {
+    "categoria": "Limitantes",
+    "titulo": "Pre-sets",
+    "img": "images/Pre-sets.jpg",
+    "descripcion": "Algunas variables a considerar en un diseño son el tamaño o la resolución del medio final, el peso en mb del archivo, la manera en la cual se proyectara, no es lo mismo ver una imagen en una sala de cine que en una habitación iluminada."
+  }, {
+    "categoria": "Limitantes",
+    "titulo": "Discapacidades visuales",
+    "img": "images/Discapacidades visuales.jpg",
+    "descripcion": "Daltonismo, ceguera, baja visión."
+  }, {
+    "categoria": "Psicología",
+    "titulo": "Color",
+    "img": "images/Psicología del color.jpg",
+    "descripcion": "Sentimientos y reacciones que evoca cada color a un individuo. Utilizados a favor del diseñador, influenciado por su ubicación geográfica y cultural. <ul><li>Amarillo: felicidad, claridad.</li><li>Anaranjado: Creatividad.</li><li>Rojo: sangre, muerte, destrucción, pasión, fuerza, romance.</li><li>Morado: lujo, religión, sabiduría, imaginativo.</li><li>Azul: elegancia, soledad, realeza, tranquilidad.</li><li>Verde: natural, salud, serenidad, celos.</li><li>Blanco, plata: pureza, pulcritud.</li><li>Negro: muerte, elegancia.</li><li>Multicolor: divertidos, versátiles, diversos.</li></ul>"
+  }, {
+    "categoria": "Psicología",
+    "titulo": "Diseño",
+    "img": "images/psicologiadiseno.jpg",
+    "descripcion": "Es la manipulación de masas a partir de conceptos y estudios establecidos que nos ayudan al diseño efectivo, según la comportamientos de dichas masas.</br>Sugestión: una idea sugerida que las masas las hacen propias y creen firmemente que salió de su ingenio, o creen que es el estándar social a seguir. Su origen es atributo con fines terapéuticos, you are great.</br>La sugestión directa: parte de una autoridad.</br>La hipnótica, se consigue a partir de la hipnosis, a partir de algo mecánico, se implantan ideas ajenas en el sujeto.</br>Sugestión indirecta: ideas que están implícitas, que sutilmente sugieren nuevos puntos de vista, artículos, ideas, propias y verdaderas. Ejemplo el noticiero."
+  }, {
+    "categoria": "Estímulo",
+    "titulo": "Estímulo",
+    "img": "images/estimulo.jpg",
+    "descripcion": "Uso de agentes químicos o elementos que provocan reacciones en el individuo. Existen diversos factores de estímulo, como presentar cambios sencillos, contenidos simples y fáciles de leer, buena jerarquía y la rapidez de acceso a la información. Se puede estimular con dolor, provocar al espectador a sentir esa sensación, para que realice cierta acción; engaño de datos, la reputación del producto, los procesos largos y complicados, la ausencia de imagen (puro texto), o bloques de texto muy largos."
+  }, {
+    "categoria": "Influencias",
+    "titulo": "Influencias",
+    "img": "images/Influencia.png",
+    "descripcion": "<b>Influencia</b>, estilo de persuasión a partir del análisis del receptor de la información. Por ejemplo la influencia de una autoridad sobre las personas. Existen diversos tipos de influencias:</br></br><b>Influencia formativa</b>, es la influencia que aceptamos de manera voluntario como correcta.</br><b>Influencia normativa</b>, es la influencia que es impuesta de forma categórica.</br><b>Adoctrinación</b>, realizar una acción por influencia heredada de una actividad repetitiva.</br><b>Reproducción</b>, copiar las acciones por popularidad.</br><b>Exclusividad</b>, por un estatus social.</br><b>Distorsión de juicio</b>, seguir la autoridad sin cuestionar.</br><b>Distorsión de la persecución</b>, acostumbrar a la persona a una situación.</br><b>Reciprocidad</b>, lo que doy, lo que recibo. Si un servicio es bueno, se vuelve a buscar. Acción de devolver el favor.</br><b>Dar importancia a alguien</b>, generar nostalgia en las personas, para que se acuerden de uno. Ejemplo Duolingo: vuelve otra vez.</br><b>Añoranza</b>, relaciones afectivas con algún objeto, físico o abstracto.</br><b>Alteración del juicio</b>, que es correcto y que no.</br><b>Autoridad</b>, los agentes de autoridad dicen que hacer.</br><b>Emociones</b>, reacciones involuntarias del cuerpo a un estímulo"
+  }, {
+    "categoria": "Manipulación",
+    "titulo": "Manipulación",
+    "img": "images/manipulacion.jpg",
+    "descripcion": "Modificar el pensamiento de manera agresiva, a partir del poder. Existen diversos tipos de manipulación:</br></br><b>Dominación de Tiempo y contexto</b>, se dice la hora y el lugar, sacando de la zona de confort.</br><b>Ejercer poder de objetos establecidos</b>, ofrecer algo, pero esperando otra cosa a cambio. Ejemplo yo prestó la cámara pero quiero su Nintendo.</br><b>Intencionalidad a partir del nombre</b>, utilizar el nombre con una intención.</br><b>Formalidad</b>, forma de presentar algo. Ejemplo una persona bien vestida, página de un banco.</br><b>Físicamente intimidante</b>, factores físicos. Ejemplo portada de un niño en la guerra.</br><b>Proceso de burocracia y engorrosos</b>, rellenar formulario, por procesos de sumisión.</br><b>Voz alta y emociones negativa</b>, mayúsculas saltona, agresión verbal.</br><b>Pérdida de paciencia y/o amenaza</b>, hacer algo de manera obligatoria. Llenar un formulario en un tiempo determinado.</br><b>Humor negativo y deliberado</b></br><b>Sarcasmo y retar</b>, permanecer en el sitio web.</br><b>Control excesivo y represivo</b>, se obliga hacer algo muchas veces."
+  }, {
+    "categoria": "Palabras claves",
+    "titulo": "Palabras claves",
+    "img": "images/Palabras claves.jpg",
+    "descripcion": "Palabras claves de mercado<ul><li>Secreto, descubra, averigüe.</li><li>Mencionar nombres o grupos sociales.</li><li>Usar el No de manera contraria.</li><li>Suponer lo evidente.</li><li>Interrogantes, cuando, como, te interesa, porque.</li><li>Alternativas, una u otra.</li><li>Pero, usado de manera correcta.</li><li>Usar una persona como autoridad de manera comparativa, Carlos ya se graduó.</li><li>Razones directas o constantes.</li><li>Pero de forma negativa, para estimular hacer algo.</li><li>Dar datos precisos.</li><li>No te parece si.</li></ul>"
+  }, {
+    "categoria": "Historia",
+    "titulo": "Historia",
+    "img": "images/historia.jpg",
+    "descripcion": "El css fue propuesto por Håkon Wium Lie el 10 de octubre de 1994. Un año después es recomendado por W3C su primera iteración. Inicialmente los dise;o se realizaban con tablas, después viene la implementación de Flash. Con CSS2  se incorporan los divs, secciones, vienen los primeros CMS, Drupal, Joomla. Actualmente se emplea CSS3 con selectores."
+  }, {
+    "categoria": "Referencia",
+    "titulo": "Referencia",
+    "img": "images/Awwwards.jpg",
+    "descripcion": "Algunos sitios de referencia:</br><a target='_blank' href=’https://www.awwwards.com/’>Awwwards</a></br><a target='_blank' href=’http://www.webdesign-inspiration.com/'>webdesign inspiration </a></br><a target='_blank' href=’http://www.piktab.com/’>piktab</a></br><a target='_blank' href=’https://stocksnap.io/'>stock Snap</a></br><a target='_blank' href=’https://unsplash.com/'>Unsplash</a></br>"
   }
 
 ]
