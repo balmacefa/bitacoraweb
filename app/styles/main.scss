@@ -222,7 +222,7 @@ img {
       margin: $margen/3 0;
 
       img {
-        height: 300px;
+        max-height: 300px;
         margin: 0 auto;
         display: block;
       }
