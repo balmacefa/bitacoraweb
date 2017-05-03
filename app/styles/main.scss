@@ -105,7 +105,7 @@ img {
   #lista-img {
     @include c($s, 12);
     @include c($m, 4);
-    overflow: scroll;
+    overflow-y: scroll;
     @include grid-media($s) {
       height: 25vh;
       position: absolute;
@@ -206,7 +206,7 @@ img {
     @include grid-media($m) {
       height: $height;
     }
-    overflow: scroll;
+    overflow-y: scroll;
 
     h4 {
       text-transform: uppercase;
