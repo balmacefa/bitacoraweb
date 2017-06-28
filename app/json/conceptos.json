@@ -218,6 +218,25 @@
     "titulo": "Referencia",
     "img": "images/newsletter-referencia.jpg",
     "descripcion": "Algunos sitios de referencia:</br><a target='_blank' href=’https://www.fromdoppler.com/’>From Doppler</a></br><a target='_blank' href=’https://mailchimp.com/'>Mail Chimp</a></br><a target='_blank' href=’http://www.mailkitchen.com/es/inicio’>Mail Kitchen</a></br><a target='_blank' href=’http://constantcontact.com/index.jsp'>Constant Contact</a></br><a target='_blank' href=’http://foundation.zurb.com/emails.html'>Foundation Emails</a></br>"
+  }, {
+    "categoria": "Manual de marca",
+    "titulo": "Manual de marca",
+    "img": "images/manual-marca.jpg",
+    "descripcion": "El manual de marca es una herramienta corporativa, que define todas las instancias que interactúan directa o indirectamente con el público. Tiene como fin recoger los elementos de identidad gráfica y la gama de aplicaciones de uso más generalizado. Define la denominación, la tipografía y los colores corporativos para todos los documentos. Las normas contenidas en estos documento deben respetarse y mantenerse constantes, a fin de facilitar una difusión única y reforzar y asentar definitivamente su Identidad Visual."
+  }, {
+    "categoria": "Empathy map",
+    "titulo": "Concepto",
+    "img": "images/empathy_map.jpg",
+    "descripcion": "El empathy map es una herramienta utilizada para identificar mejor a nuestro público meta a través de un conocimiento más profundo del mismo, su entorno y su visión única del mundo y de sus propias necesidades. Trata de obtener un perfil de personal. Un profundo conocimiento de la persona es clave en el diseño de nuestro modelo de negocio, pues el producto o servicio debe encajar en las necesidades de los clientes.</br></br>Un mapa de empatía básicamente debe responder a las siguientes preguntas:<ul><li>¿Qué quiere el cliente?</li><li>¿Qué podemos hacer por estos clientes?</li><li>¿Quiénes son de verdad?</li></ul>"
+  }, {
+    "categoria": "Empathy map",
+    "titulo": "Ejemplo",
+    "img": "images/Empathy-Map-ejemplo.jpg",
+    "descripcion": "El empathy map es una herramienta utilizada para identificar mejor a nuestro público meta a través de un conocimiento más profundo del mismo, su entorno y su visión única del mundo y de sus propias necesidades. Trata de obtener un perfil de personal. Un profundo conocimiento de la persona es clave en el diseño de nuestro modelo de negocio, pues el producto o servicio debe encajar en las necesidades de los clientes.</br></br>Un mapa de empatía básicamente debe responder a las siguientes preguntas:<ul><li>¿Qué quiere el cliente?</li><li>¿Qué podemos hacer por estos clientes?</li><li>¿Quiénes son de verdad?</li></ul>"
+  }, {
+    "categoria": "Empathy map",
+    "titulo": "Resumen",
+    "img": "images/empathy_map-resumen.jpg",
+    "descripcion": "El empathy map es una herramienta utilizada para identificar mejor a nuestro público meta a través de un conocimiento más profundo del mismo, su entorno y su visión única del mundo y de sus propias necesidades. Trata de obtener un perfil de personal. Un profundo conocimiento de la persona es clave en el diseño de nuestro modelo de negocio, pues el producto o servicio debe encajar en las necesidades de los clientes.</br></br>Un mapa de empatía básicamente debe responder a las siguientes preguntas:<ul><li>¿Qué quiere el cliente?</li><li>¿Qué podemos hacer por estos clientes?</li><li>¿Quiénes son de verdad?</li></ul>"
   }
-
 ]
