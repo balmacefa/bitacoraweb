@@ -203,6 +203,40 @@
     "titulo": "Referencia",
     "img": "images/Awwwards.jpg",
     "descripcion": "Algunos sitios de referencia:</br><a target='_blank' href=’https://www.awwwards.com/’>Awwwards</a></br><a target='_blank' href=’http://www.webdesign-inspiration.com/'>webdesign inspiration </a></br><a target='_blank' href=’http://www.piktab.com/’>piktab</a></br><a target='_blank' href=’https://stocksnap.io/'>stock Snap</a></br><a target='_blank' href=’https://unsplash.com/'>Unsplash</a></br>"
+  }, {
+    "categoria": "Newsletter",
+    "titulo": "Concepto",
+    "img": "images/newsletter.png",
+    "descripcion": "<a target='_blank' href='https://vilmanunez.com/que-es-newsletter/'>Newsletter</a> o boletín, es un canal de comunicación entre servicio y cliente. El usuario normalmente se subscribe a ellos y recibe contenido periódicamente a su correo electrónico.</br></br><b>Newsletter(boletines)</b>, normalmente son publicidad y tienen cierta periodicidad, diaria, semestral, trimestral etc. Contienen información de un artículo, una marca o una página.</br><b>Mailling</b>, es una formato más de publicidad utilizado mayormente para promocionar servicios y productos de una marca.</br><b>E-mail marketing</b>, es un correo con links de acceso directos a compra. Altamente ilustrativos, poco contenido textual de carácter sugerente. Amazon, wish etc."
+  }, {
+    "categoria": "Newsletter",
+    "titulo": "Ventajas",
+    "img": "images/ventajas.png",
+    "descripcion": "Algunas ventajas:<ul><li>Mantener la marca presente en la mente del usuario o público, ya que es información que al usuario le interesa.</li><li>Son de bajo costo económico por lo tanto miniempresas y usuario pueden generarlos.</li><li>Este canal de comunicación es una forma eficaz de conocer el público presente en la marca.</li><li>Se puede considerar uno de los mejores canales de ventas y presenta una mejor estrategia a la hora de presentarse al público, porque pueden ser de carácter personalizado y generan un vínculo.</li></ul>"
+  }, {
+    "categoria": "Newsletter",
+    "titulo": "Referencia",
+    "img": "images/newsletter-referencia.jpg",
+    "descripcion": "Algunos sitios de referencia:</br><a target='_blank' href=’https://www.fromdoppler.com/’>From Doppler</a></br><a target='_blank' href=’https://mailchimp.com/'>Mail Chimp</a></br><a target='_blank' href=’http://www.mailkitchen.com/es/inicio’>Mail Kitchen</a></br><a target='_blank' href=’http://constantcontact.com/index.jsp'>Constant Contact</a></br><a target='_blank' href=’http://foundation.zurb.com/emails.html'>Foundation Emails</a></br>"
+  }, {
+    "categoria": "Manual de marca",
+    "titulo": "Manual de marca",
+    "img": "images/manual-marca.jpg",
+    "descripcion": "El manual de marca es una herramienta corporativa, que define todas las instancias que interactúan directa o indirectamente con el público. Tiene como fin recoger los elementos de identidad gráfica y la gama de aplicaciones de uso más generalizado. Define la denominación, la tipografía y los colores corporativos para todos los documentos. Las normas contenidas en estos documento deben respetarse y mantenerse constantes, a fin de facilitar una difusión única y reforzar y asentar definitivamente su Identidad Visual."
+  }, {
+    "categoria": "Empathy map",
+    "titulo": "Concepto",
+    "img": "images/empathy_map.jpg",
+    "descripcion": "El empathy map es una herramienta utilizada para identificar mejor a nuestro público meta a través de un conocimiento más profundo del mismo, su entorno y su visión única del mundo y de sus propias necesidades. Trata de obtener un perfil de personal. Un profundo conocimiento de la persona es clave en el diseño de nuestro modelo de negocio, pues el producto o servicio debe encajar en las necesidades de los clientes.</br></br>Un mapa de empatía básicamente debe responder a las siguientes preguntas:<ul><li>¿Qué quiere el cliente?</li><li>¿Qué podemos hacer por estos clientes?</li><li>¿Quiénes son de verdad?</li></ul>"
+  }, {
+    "categoria": "Empathy map",
+    "titulo": "Ejemplo",
+    "img": "images/Empathy-Map-ejemplo.jpg",
+    "descripcion": "Ejemplo de un mapa de empatía para una tienda de perfumes</br></br><b>Nombre</b></br>Daniel Bogarín Gómez</br><b>Edad</b></br>25</br><b>Ocupación</b></br>Administrador</br></br><b>Oye</b></br><b>¿Sus amigos le han sugerido algún perfume?</b></br>Perfume no, ropa.</br><b>¿Qué piensan sus familiares sobre los perfumes?</b></br>Mi papa usa perfume, mi madre no.</br></br><b>Piensa y siente</b></br><b>¿Qué lo motiva a comprar un perfume?</b></br>El aroma, pero no suelo buscar nuevos perfumes.</br><b>¿Compraría un perfume en internet?</b></br>si, si ya lo usado anteriormente.</br></br><b>Ve</b></br><b>¿Alguna vez le ha llamado la atención algún anuncio sobre perfumes?</b></br>no.</br></br><b>Dice y hace</b></br><b>¿Qué prioridad le da a la hora de comprar a un perfume ?</b></br>el aroma y haberlo utilizado anteriormente.</br><b>¿Cada cuánto compra un perfume?</b></br>si tengo un cita importante o si ya no tengo.</br></br><b>Duele</b></br><b>¿Qué le molesta cuando compra por internet?</b></br>Que la página no se vea seria.</br><b>¿Cuánto tiempo puede esperar por una entrega?</b></br>si es algo nacional 2-3 días, si es internacional 1 mes.<b>aspira</b></br><b>¿Qué espera de un perfumen, calidad, duración, etc?</b></br>Calidad sobre precio y fama."
+  }, {
+    "categoria": "Empathy map",
+    "titulo": "Resumen",
+    "img": "images/empathy_map-resumen.jpg",
+    "descripcion": "Resumen</br></br><b>Edad</b></br>20-25</br><b>Ocupación</b></br>Estudiante y profesionales</br></br><b>Oye</b></br><b>¿Sus amigos le han sugerido algún perfume?</b></br>Las personas no suelen recomendar perfumes, únicamente cuando les piden su opinión.</br><b>¿Qué piensan sus familiares sobre los perfumes?</b></br>Los familiares suelen utilizar perfumen, cuando tiene una reunión importante.</br></br><b>Piensa y siente</b></br><b>¿Qué lo motiva a comprar un perfume?</b></br>El precio y el aroma.</br><b>¿Compraría un perfume en internet?</b></br>Las personas compran por internet, algunos deben probarlos antes.</br></br><b>Ve</b></br><b>¿Alguna vez le ha llamado la atención algún anuncio sobre perfumes?</b></br>Los anuncios no suelen llamar la atención a largo tiempo.</br></br><b>Dice y hace</b></br><b>¿Qué prioridad le da a la hora de comprar a un perfume ?</b></br>el aroma y haberlo utilizado anteriormente.</br><b>¿Cada cuánto compra un perfume?</b></br>Normalmente cuando se está agotando el actual o quieren tener más opciones.</br></br><b>Duele</b></br><b>¿Qué le molesta cuando compra por internet?</b></br>El sitio tiene que ser intuitivo, mostrar seriedad y confianza.</br><b>¿Cuánto tiempo puede esperar por una entrega?</b></br>El tiempo de espera es corto de 2-5 días.<b>aspira</b></br><b>¿Qué espera de un perfumen, calidad, duración, etc?</b></br>Que su aroma perdure por mucho tiempo, y deje diversas sensaciones."
   }
-
 ]
