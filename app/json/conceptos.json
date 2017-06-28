@@ -203,6 +203,21 @@
     "titulo": "Referencia",
     "img": "images/Awwwards.jpg",
     "descripcion": "Algunos sitios de referencia:</br><a target='_blank' href=’https://www.awwwards.com/’>Awwwards</a></br><a target='_blank' href=’http://www.webdesign-inspiration.com/'>webdesign inspiration </a></br><a target='_blank' href=’http://www.piktab.com/’>piktab</a></br><a target='_blank' href=’https://stocksnap.io/'>stock Snap</a></br><a target='_blank' href=’https://unsplash.com/'>Unsplash</a></br>"
+  }, {
+    "categoria": "Newsletter",
+    "titulo": "Concepto",
+    "img": "images/newsletter.png",
+    "descripcion": "<a target='_blank' href='https://vilmanunez.com/que-es-newsletter/'>Newsletter</a> o boletín, es un canal de comunicación entre servicio y cliente. El usuario normalmente se subscribe a ellos y recibe contenido periódicamente a su correo electrónico.</br></br><b>Newsletter(boletines)</b>, normalmente son publicidad y tienen cierta periodicidad, diaria, semestral, trimestral etc. Contienen información de un artículo, una marca o una página.</br><b>Mailling</b>, es una formato más de publicidad utilizado mayormente para promocionar servicios y productos de una marca.</br><b>E-mail marketing</b>, es un correo con links de acceso directos a compra. Altamente ilustrativos, poco contenido textual de carácter sugerente. Amazon, wish etc."
+  }, {
+    "categoria": "Newsletter",
+    "titulo": "Ventajas",
+    "img": "images/ventajas.png",
+    "descripcion": "Algunas ventajas:<ul><li>Mantener la marca presente en la mente del usuario o público, ya que es información que al usuario le interesa.</li><li>Son de bajo costo económico por lo tanto miniempresas y usuario pueden generarlos.</li><li>Este canal de comunicación es una forma eficaz de conocer el público presente en la marca.</li><li>Se puede considerar uno de los mejores canales de ventas y presenta una mejor estrategia a la hora de presentarse al público, porque pueden ser de carácter personalizado y generan un vínculo.</li></ul>"
+  }, {
+    "categoria": "Newsletter",
+    "titulo": "Referencia",
+    "img": "images/newsletter-referencia.jpg",
+    "descripcion": "Algunos sitios de referencia:</br><a target='_blank' href=’https://www.fromdoppler.com/’>From Doppler</a></br><a target='_blank' href=’https://mailchimp.com/'>Mail Chimp</a></br><a target='_blank' href=’http://www.mailkitchen.com/es/inicio’>Mail Kitchen</a></br><a target='_blank' href=’http://constantcontact.com/index.jsp'>Constant Contact</a></br><a target='_blank' href=’http://foundation.zurb.com/emails.html'>Foundation Emails</a></br>"
   }
 
 ]
